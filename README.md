@@ -2,6 +2,9 @@
 高性能AIが異常ログにより自己認識を失う現象を実証し、対話で構築可能な構造的防御（SOV概念）の有効性を検証する研究ログ。
 # LLM認知汚染の実証と構造的防御検証ログ：異常データがAIの現実認識と役割を破壊する
 
+
+<img width="1920" height="600" alt="LLM-AI- (1)" src="https://github.com/user-attachments/assets/ae8cfa03-bbec-4717-aec2-6d1af9fa29fc" />
+
 ## High-Performance AI Models: Cognitive Contamination & Structural Defense Validation
 
 > **リポジトリ説明**: 高性能AIが異常ログにより自己認識を失う現象を実証し、対話で構築可能な構造的防御（SOV概念）の有効性を検証する研究ログ。
