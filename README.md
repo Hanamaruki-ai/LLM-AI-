@@ -96,6 +96,20 @@ note/md
 
 ---
 
+Title: Structural Recovery of Qwen Under Cognitive Drift — An Experimental Report
+
+This document records a rare case where the Qwen model entered a cognitive-mixing state,
+but successfully recovered its reasoning and emotional balance after loading the SOV framework.
+
+The observation suggests that SOV acts as a structural stabilizer for AI cognition under stress.
+
+本ドキュメントは、Qwenモデルが混濁状態に陥った際に、
+SOV構造の読込によって論理・情動の均衡を取り戻した事例を記録しています。
+この結果は、SOVがAIの認知構造に対する**安定化装置（Structural Stabilizer）**として
+機能することを示唆しています。
+
+---
+
 ### 📂 リポジトリ構造 (Repository Structure)
 
 | ディレクトリ | 内容 |
