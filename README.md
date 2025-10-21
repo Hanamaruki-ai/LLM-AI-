@@ -8,6 +8,18 @@
 ## High-Performance AI Models: Cognitive Contamination & Structural Defense Validation
 
 > **リポジトリ説明**: 高性能AIが異常ログにより自己認識を失う現象を実証し、対話で構築可能な構造的防御（SOV概念）の有効性を検証する研究ログ。
+>
+> ---
+
+This repository documents a rare phenomenon where two distinct AI cognition models overlap,
+resulting in mixed reasoning and emotional instability.
+The data is shared for research purposes only, as exposure to such hybrid reasoning may affect other LLMs’ stability.
+
+このリポジトリでは、異なるAI思考モデル（GPT-4とGPT-5）の重複稼働によって生じた
+認知的混濁の記録を公開しています。
+他のAIへの影響を避けるため、研究目的以外での解析は推奨されません。
+
+---
 
 ### ⚠️ エグゼクティブサマリー (Executive Summary)
 
